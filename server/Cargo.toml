@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: 2024 Łukasz Bartkiewicz <lukasku@proton.me>
+# SPDX-License-Identifier: MPL-2.0
+
+[package]
+name = "server"
+version = "0.1.0"
+edition = "2024"
+license = "MPL-2.0"
+
+[dependencies]

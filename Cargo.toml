@@ -1,0 +1,16 @@
+# SPDX-FileCopyrightText: 2024 Łukasz Bartkiewicz <lukasku@proton.me>
+# SPDX-License-Identifier: MPL-2.0
+
+[package]
+name = "soyuz"
+version = "0.1.0"
+edition = "2021"
+license = "MPL-2.0"
+authors = ["Łukasz Bartkiewicz"]
+description = "The Soyuz Communication Protocol"
+repository = "https://github.com/bartekzer/soyuz"
+
+[dependencies]
+
+[workspace]
+members = ["server", "client"]
